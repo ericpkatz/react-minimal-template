@@ -1,3 +1,3 @@
-# acme-products-categories-faker
-- create database
+# react-minimal template
+- npm install
 - npm run start:dev
